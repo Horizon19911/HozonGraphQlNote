@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "CodeContainer",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Alex",
+      "age": 40,
+      "companyId": "1"
+    },
+    {
+      "id": "7",
+      "firstName": "Hozon",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Herit",
+      "age": 23,
+      "id": "PZoIzRz"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "ipone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
